@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   DANNY SEABELA · GITHUB PROFILE              -->
+<!--                   DANNY SELOWA · GITHUB PROFILE              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -16,7 +16,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Danny Seabela
+# Danny Selowa
 
 **QA Automation Engineer · Founder @ [Odd Rhymes (PTY) Ltd](https://oddrhymes.com)**
 
