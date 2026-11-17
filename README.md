@@ -7,10 +7,10 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   $ npx danny-seabela --role="QA Automation Engineer"        ║
+║   $ npx danny-selowa --role="QA Automation Engineer"         ║
 ║   ✓ 7+ years experience loaded                               ║
 ║   ✓ Playwright · Cypress · Selenium · Appium initialized     ║
-║   ✓ Odd Rhymes (PTY) Ltd · founder mode: active             ║
+║   ✓ Odd Rhymes (PTY) Ltd · founder mode: active              ║
 ║   ✓ Ready to ship                                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
